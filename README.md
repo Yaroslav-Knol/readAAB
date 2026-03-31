@@ -7,7 +7,7 @@
 **Веб-версия:** [Ryurik.space/records/search/read](https://ryurik.space/records/search/read)  
 **Скачать APK (Android):** [readAABNOW_v1.0.apk](https://ryurik.space/readAABNOW_v1.0.apk)
 
----
+
 
 ## О приложении
 
@@ -17,7 +17,7 @@
 
 Помимо случайного чтения, в приложение **интегрирован мощный поисковик**, который позволяет искать нужные термины и цитаты по всей базе книг.
 
----
+
 
 ## Возможности | Features
 
@@ -27,7 +27,7 @@
 * Современная редакция (опционально): классические эзотерические термины заменяются на современные и понятные: *«Лучи» → «Потоки»*, *«Ученики» → «Ученики (серверы)»*. Новые термины осадил ** Учитель ВМ Рюрик Олег Юрьевич**.
 * Офлайн-база. Все тексты надежно упакованы под капотом.
 
----
+
 
 ## Встроенная поисковая система | Advanced Search Engine
 
@@ -51,7 +51,7 @@
 * **Цветовая подсветка:** Искомые слова подсвечиваются в тексте для быстрого чтения по диагонали (при поиске через `|` разные слова могут подсвечиваться разными цветами).
 * **Сохранение в TXT:** Вы можете скачать результаты своей исследовательской выборки в виде текстового файла (`.txt`). Файл будет содержать все найденные абзацы с указанием книги-источника и оригинальной ссылки на сайт. Удобно для создания собственных конспектов и компиляций!
 
----
+
 
 ## Полная база книг (26 томов) | Included Books
 
@@ -84,7 +84,7 @@
 25. Подвиги Геракла
 26. Компиляция о сексе
 
----
+
 
 ## Возможности дальнейшего развития:
 
@@ -94,7 +94,7 @@
 - [ ] Релиз в Google Play, AppStore, RuStore.
 - [ ] Предлагайте!
 
----
+
 
 ## 🇬🇧 English Summary
 
@@ -102,12 +102,11 @@
 
 Bypass the paradox of choice by opening a random section of the teachings for your daily meditation. Includes adjustable reading themes, font sizes, a full-text search engine with morphological support, and an optional "Modern Edit" mode that translates older esoteric jargon into modern terminology. The advanced search engine allows users to query multiple terms in a single context (e.g., `love|will`), filter results by specific books, and export customized snippets to a `.txt` file for further study.
 
----
+
 
 ## Ключевые слова (SEO)
 *Читать Алису Бейли онлайн, книги Тибетца, Джуал Кхул, эзотерика, оккультизм, Трактат о Космическом Огне, Эзотерическая психология, Лучи и посвящения, случайная цитата, эзотерический поиск, Agni Yoga, Theosophy, Alice Bailey books read online, Djwhal Khul quotes, поиск по эзотерической литературе.*
 
----
 
 ## Контакты | Contacts & Feedback
 
