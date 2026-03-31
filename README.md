@@ -5,7 +5,7 @@
 An app for reading books by Alice A. Bailey and The Tibetan (Djwhal Khul) starting from a random page. Available for Android (APK) and Web.
 
 **Веб-версия:** [Ryurik.space/records/search/read](https://ryurik.space/records/search/read)  
-**Скачать APK (Android): **[readAABNOW_v1.3.apk](https://github.com/Yaroslav-Knol/readAAB/releases/download/reader/readAABNOW_v1.3.apk))
+**Скачать APK (Android):** [readAABNOW_v1.3.apk](https://github.com/Yaroslav-Knol/readAAB/releases/download/reader/readAABNOW_v1.3.apk))
 
 ## О приложении
 
