@@ -1,13 +1,11 @@
 # Read AAB NOW!
 
-**Приложение для чтения книг Алисы А. Бейли и Тибетца (Джуал Кхула) со случайной страницы для Android (APK) и Web.**
+**Приложение для чтения книг Алисы А. Бейли и Тибетца (Джуал Кхула) со случайной страницы для Android (APK) и Web. А теперь и поиска по книгам Алисы Бейли! 😀**
 
-**An app for reading books by Alice A. Bailey and The Tibetan (Djwhal Khul) starting from a random page. Available for Android (APK) and Web.**
+An app for reading books by Alice A. Bailey and The Tibetan (Djwhal Khul) starting from a random page. Available for Android (APK) and Web.
 
 **Веб-версия:** [Ryurik.space/records/search/read](https://ryurik.space/records/search/read)  
 **Скачать APK (Android):** [readAABNOW_v1.0.apk](https://ryurik.space/readAABNOW_v1.0.apk)
-
-
 
 ## О приложении
 
@@ -17,8 +15,6 @@
 
 Помимо случайного чтения, в приложение **интегрирован мощный поисковик**, который позволяет искать нужные термины и цитаты по всей базе книг.
 
-
-
 ## Возможности | Features
 
 * Одно нажатие — и ты в нужном месте.
@@ -26,8 +22,6 @@
 * Выбор темы и размера шрифта.
 * Современная редакция (опционально): классические эзотерические термины заменяются на современные и понятные: *«Лучи» → «Потоки»*, *«Ученики» → «Ученики (серверы)»*. Новые термины осадил ** Учитель ВМ Рюрик Олег Юрьевич**.
 * Офлайн-база. Все тексты надежно упакованы под капотом.
-
-
 
 ## Встроенная поисковая система | Advanced Search Engine
 
@@ -50,8 +44,6 @@
 * **Автоматический глоссарий (компиляция):** Результаты выдаются не просто ссылками, а целыми осмысленными абзацами (сниппетами), чтобы вы могли сразу понять контекст цитаты.
 * **Цветовая подсветка:** Искомые слова подсвечиваются в тексте для быстрого чтения по диагонали (при поиске через `|` разные слова могут подсвечиваться разными цветами).
 * **Сохранение в TXT:** Вы можете скачать результаты своей исследовательской выборки в виде текстового файла (`.txt`). Файл будет содержать все найденные абзацы с указанием книги-источника и оригинальной ссылки на сайт. Удобно для создания собственных конспектов и компиляций!
-
-
 
 ## Полная база книг (26 томов) | Included Books
 
@@ -84,8 +76,6 @@
 25. Подвиги Геракла
 26. Компиляция о сексе
 
-
-
 ## Возможности дальнейшего развития:
 
 - [ ] Система пользовательских закладок и избранного.
@@ -94,15 +84,11 @@
 - [ ] Релиз в Google Play, AppStore, RuStore.
 - [ ] Предлагайте!
 
-
-
-## 🇬🇧 English Summary
+## English Summary
 
 **Read AAB NOW!** is a non-commercial reading and search tool designed for students of Esotericism, Theosophy, and the teachings of Alice A. Bailey and Djwhal Khul (The Tibetan). 
 
 Bypass the paradox of choice by opening a random section of the teachings for your daily meditation. Includes adjustable reading themes, font sizes, a full-text search engine with morphological support, and an optional "Modern Edit" mode that translates older esoteric jargon into modern terminology. The advanced search engine allows users to query multiple terms in a single context (e.g., `love|will`), filter results by specific books, and export customized snippets to a `.txt` file for further study.
-
-
 
 ## Ключевые слова (SEO)
 *Читать Алису Бейли онлайн, книги Тибетца, Джуал Кхул, эзотерика, оккультизм, Трактат о Космическом Огне, Эзотерическая психология, Лучи и посвящения, случайная цитата, эзотерический поиск, Agni Yoga, Theosophy, Alice Bailey books read online, Djwhal Khul quotes, поиск по эзотерической литературе.*
@@ -113,8 +99,8 @@ Bypass the paradox of choice by opening a random section of the teachings for yo
 Данный проект создан как некоммерческий инструмент для исследователей Вневременной Мудрости.
 Если у вас есть идеи по улучшению, вы нашли ошибку или хотите помочь проекту:
 
-* **Telegram:**[@Yaroslav_Lenin](https://t.me/Yaroslav_Lenin)
-* **ВКонтакте:**[Ярослав Ленин](https://vk.com/yaroslavlenin)
-* **Проект сайта:**[Ryurik.space](https://ryurik.space)
+* **Telegram:** [@Yaroslav_Lenin](https://t.me/Yaroslav_Lenin)
+* **ВКонтакте:** [Ярослав Ленин](https://vk.com/yaroslavlenin)
+* **Проект сайта:** [Ryurik.space](https://ryurik.space)
 
 *Да восстановят Свет, Любовь и Могущество План на Земле!*
